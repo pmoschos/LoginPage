@@ -45,4 +45,4 @@ Run the app on an emulator or physical device. Enter username and password crede
 Contributors are welcome. Please fork the repository and submit pull requests for any proposed changes.
 
 ## Contact Information
-[pan.moschos86@gmail.com]
+[pmoschos@aueb.gr]
