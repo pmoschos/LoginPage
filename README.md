@@ -35,11 +35,11 @@ Run the app on an emulator or physical device. Enter username and password crede
 ## Screenshots
 
 ### Login Screen
-(![image](https://github.com/pmoschos/LoginPage/assets/133533759/8897414b-d605-4f64-9cf5-21e26d39f319)
+![image](https://github.com/pmoschos/LoginPage/assets/133533759/8897414b-d605-4f64-9cf5-21e26d39f319)
 
 
 ### Welcome Screen
-(![image](https://github.com/pmoschos/LoginPage/assets/133533759/91f171c2-224b-43d8-8557-45744b417acf)
+![image](https://github.com/pmoschos/LoginPage/assets/133533759/91f171c2-224b-43d8-8557-45744b417acf)
 
 ## Contributions
 Contributors are welcome. Please fork the repository and submit pull requests for any proposed changes.
