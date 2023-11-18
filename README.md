@@ -1,4 +1,4 @@
-# LoginDemoAppCF4
+# Login Page
 
 ## Project Overview
 LoginDemoAppCF4 is an Android application demonstrating basic login functionality. This README focuses on the `MainActivity` class, which manages user authentication.
